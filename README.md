@@ -10,3 +10,4 @@ Tecnologias Utilizadas:
 PHP
 MySQL / PostgreSQL (dependendo da fase)
 
+Sejam todos bem vindos
